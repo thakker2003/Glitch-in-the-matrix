@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MINESWEEPER</title>
+</head><hr><hr>
+<h1 style="font-size: 60px;" align ="center"><font color ="blue"><b>MINESWEEPER</b></font></h1>
+<hr><hr>
+<body style ="background-color:black;">
+ <br> <img align="right" src="msg1092444487-950.jpg" alt="minesweeper demos৸" width="270" height="320">
+<p><h3 align ="center" ><font color ="white">Minesweeper is a classic computer game that was popularized in the 1990s by Microsoft through its inclusion<br> as a built-in extra in Windows. It was possibly based on a game called Mined-Out invented by Ian Andrew in 1983.</font></h3></p>
+
+<p><h3 align ="center"><font color ="white">The gameplay of Minesweeper could be called deceptively simple. It consists of a grid of concealed squares.<br> You click on the squares one at a time to reveal what is under each one — a mine, a number indicating how many<br> mines are in the surrounding squares, or nothing at all. Clicking on a mine ends the game — you only get one life<br> in Minesweeper. Winning the game involves using the numbered squares to deduce where the mines are, and<br> marking them, while exposing all the other squares.</font></h3></p>
+
+<p><h3 align ="center"><font color ="white">There is more than one Minesweeper game, but we are going to stick with the current version of Microsoft Minesweeper.<br> You can also download Minesweeper games for Android, which should play more or less the same. While some people<br> play competitively, for most, it's just a fun distraction. Either way,<br> let's go over how to play Minesweeper  </font></h3></p> <br> <hr>
+
+<h1 align ="center"><font color ="white"><b>HOW TO PLAY</b></font></h1>
+<p><h3 align ="center"><font color ="white">To play Minesweeper, you can either <a href= "https://www.microsoft.com/en-us/p/microsoft-minesweeper/9wzdncrfhwcn?activetab=pivot:overviewtab"> Downlaod The Game </a>, open it, and start a game, or <a href= "https://minesweeper.online"> play it online </a>. Click on any square to begin the game.<br> Use the numbered squares to figure out where the mines are. Right-click where you think the mines are to mark them.<br> Left-click everywhere else until all the mines are marked and all the other squares are exposed.</font></h3></p>
+<hr><h1 align ="center"><font color ="white"><b>Levels to play:</b></font></h2>
+<p><h3 align ="center" ><font color ="white">There are three difficulties level in Minesweeper. They are as shown:</font><br><br> 
+  <img align="center" src="msg1092444487-949 (1).jpg" alt="minesweeper difficulties level" width="1000" height="350"><br>
+<hr>
+<h1 align ="center"><font color ="white"><b>RULES FOR MINESWEEPER:</b></font></h1>
+
+<ul>
+  <li><h3 align ="center"><font color ="white">A square's "neighbors" are the squares above, below, left, right, and all 4 diagonals. Squares on the sides of the board or in a corner have fewer neighbors. The board does not wrap around the edges.</font></h3></li>
+    <li><h3 align ="center"><font color ="white">If you open a square with no neighboring mines, all its neighbors will automatically open. This can cause a large area to open up quickly.</h3></font></li>
+    <li><h3 align ="center" ><font color ="white">To remove a marker from a square, point at it and right-click again (or double-tap).</font></h3></li>
+    <li><h3 align ="center"><font color ="white">The first square you open is never a mine</font></h3></li>
+    <li><h3 align ="center"><font color ="white">If you mark a mine incorrectly, you will have to correct the mistake before you can win. Incorrect mine marking doesn't kill you, but it can lead to mistakes which do.</font></h3></li>
+    <li><h3 align ="center"><font color ="white">You don't have to mark all the mines to win, you just need to open all non-mine squares!</font></h3></li>
+    <li><h3 align ="center"><font color ="white">Right-clicking twice (or double-tapping twice) will give you a question mark symbol, which can be useful if you are unsure about a square.</font></h3></li>
+    <li><h3 align ="center"><font color ="white">Click the yellow happy face to start a new game.</font></h3></li>
+</ul>
+<br>
+<hr>
+<h1 align ="center"><font color ="white"><b>TIPS TO PLAY:</b></font></h1>
+<h2 align ="center"><font color ="white">Here are some suggestions for you that will help you do better and avoid mistakes:</font></h2></p>
+<ul>
+    <li><h3 align ="center"><font color ="white"><b>Be careful with your mouse.</b> There are no mulligans in Minesweeper. If you click on a square you didn’t intend to, you are stuck with the consequences, so watch carefully where your cursor is before clicking.</font></h3></li>
+    <li><h3 align ="center"><font color ="white"><b>Be careful with your mouse.</b> There are no mulligans in Minesweeper. If you click on a square you didn’t intend to, you are stuck with the consequences, so watch carefully where your cursor is before clicking.</font></h3></li>
+    <li><h3 align ="center"><font color ="white"><b>Start in the middle.</b> Expert Minesweeper players advocate placing your first click somewhere in the middle of the board and working your way out to the edges.</font></h3></li>
+    <li><h3 align ="center"><font color ="white"><b>Recognize patterns.</b> After a few games, you will recognize patterns in the way mines are commonly laid out. Each game is randomized, but there are similarities. Learning these patterns can help make your guesses, where needed, a little less random.</font></h3></li>
+    <li><h3 align ="center"><font color ="white"><b>Recognize patterns.</b> After a few games, you will recognize patterns in the way mines are commonly laid out. Each game is randomized, but there are similarities. Learning these patterns can help make your guesses, where needed, a little less random.</font></h3></li>
+</ul>
+<br>
+<hr>
+<h1 align ="center"><font color ="white"><b>WINNING THE GAME:</b></font></h1>
+<h2 align="center"><font color ="white">As you go along, you will uncover more and more of the board. At some point, unless you get lucky, there will be places where you have to guess where the mine is. This can be one of the most frustrating things in the game, when suddenly a game of strategy, observation, and pattern recognition is decided on a lucky — or unlucky — guess.</font></h2>
+<h2 align="center"><font color ="white">The game is won when you left-click on the last non-mine square. You do not have to mark the mines along the way. In fact, some advanced players deliberately do not mark them to make the game more challenging. Have fun playing Minesweeper!</font>
+    <br>
+    <hr>
+<h1 align ="center"><font color ="white"><b><i>CONGRATULATIONS!</i></b></font></h1>
+<h2 align ="center"><font color ="white"><b>YOU ARE ALMOST THERE</b></font></h2>
+<h3 align ="center"><font color ="white">How about playing a game to test your skills. <a href= "https://minesweeper.online"> Click Here</a>. to start playing now.</font></h3>
+<h3 align ="center"><font color ="white">We would suggest to play at begineer level because you are new to this!</font></h3>
+
+</body>
+</html>s
