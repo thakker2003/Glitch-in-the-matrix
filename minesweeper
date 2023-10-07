@@ -7,21 +7,22 @@
 </head><hr><hr>
 <h1 style="font-size: 60px;" align ="center"><font color ="blue"><b>MINESWEEPER</b></font></h1>
 <hr><hr>
-<body style ="background-color:black;">
- <br> <img align="right" src="msg1092444487-950.jpg" alt="minesweeper demos৸" width="270" height="320">
+<body style ="background-color:rgb(8, 1, 1);">
+ <br> 
+ <img align="right" src="photo_6125205349800720147_m.jpg" alt="minesweeper demo" width="270" height="320">
 <p><h3 align ="center" ><font color ="white">Minesweeper is a classic computer game that was popularized in the 1990s by Microsoft through its inclusion<br> as a built-in extra in Windows. It was possibly based on a game called Mined-Out invented by Ian Andrew in 1983.</font></h3></p>
 
 <p><h3 align ="center"><font color ="white">The gameplay of Minesweeper could be called deceptively simple. It consists of a grid of concealed squares.<br> You click on the squares one at a time to reveal what is under each one — a mine, a number indicating how many<br> mines are in the surrounding squares, or nothing at all. Clicking on a mine ends the game — you only get one life<br> in Minesweeper. Winning the game involves using the numbered squares to deduce where the mines are, and<br> marking them, while exposing all the other squares.</font></h3></p>
 
 <p><h3 align ="center"><font color ="white">There is more than one Minesweeper game, but we are going to stick with the current version of Microsoft Minesweeper.<br> You can also download Minesweeper games for Android, which should play more or less the same. While some people<br> play competitively, for most, it's just a fun distraction. Either way,<br> let's go over how to play Minesweeper  </font></h3></p> <br> <hr>
 
-<h1 align ="center"><font color ="white"><b>HOW TO PLAY</b></font></h1>
-<p><h3 align ="center"><font color ="white">To play Minesweeper, you can either <a href= "https://www.microsoft.com/en-us/p/microsoft-minesweeper/9wzdncrfhwcn?activetab=pivot:overviewtab"> Downlaod The Game </a>, open it, and start a game, or <a href= "https://minesweeper.online"> play it online </a>. Click on any square to begin the game.<br> Use the numbered squares to figure out where the mines are. Right-click where you think the mines are to mark them.<br> Left-click everywhere else until all the mines are marked and all the other squares are exposed.</font></h3></p>
-<hr><h1 align ="center"><font color ="white"><b>Levels to play:</b></font></h2>
+<h1 align ="center"><font color ="green"><b>HOW TO PLAY:</b></font></h1>
+<p><h3 align ="center"><font color ="white">To play Minesweeper, you can either <a href= "https://www.microsoft.com/en-us/p/microsoft-minesweeper/9wzdncrfhwcn?activetab=pivot:overviewtab" target="_blank"> Downlaod The Game </a>, open it, and start a game, or <a href= "https://minesweeper.online" target="_blank"> play it online </a>. Click on any square to begin the game.<br> Use the numbered squares to figure out where the mines are. Right-click where you think the mines are to mark them.<br> Left-click everywhere else until all the mines are marked and all the other squares are exposed.</font></h3></p>
+<hr><h1 align ="center"><font color ="green"><b>LEVELS TO PLAY:</b></font></h1>
 <p><h3 align ="center" ><font color ="white">There are three difficulties level in Minesweeper. They are as shown:</font><br><br> 
-  <img align="center" src="msg1092444487-949 (1).jpg" alt="minesweeper difficulties level" width="1000" height="350"><br>
+  <img align="center" src="photo_6125205349800720134_y.jpg" alt="minesweeper difficulties level" width="1000" height="350"><br>
 <hr>
-<h1 align ="center"><font color ="white"><b>RULES FOR MINESWEEPER:</b></font></h1>
+<h1 align ="center"><font color ="green"><b>RULES FOR MINESWEEPER:</b></font></h1>
 
 <ul>
   <li><h3 align ="center"><font color ="white">A square's "neighbors" are the squares above, below, left, right, and all 4 diagonals. Squares on the sides of the board or in a corner have fewer neighbors. The board does not wrap around the edges.</font></h3></li>
@@ -33,9 +34,15 @@
     <li><h3 align ="center"><font color ="white">Right-clicking twice (or double-tapping twice) will give you a question mark symbol, which can be useful if you are unsure about a square.</font></h3></li>
     <li><h3 align ="center"><font color ="white">Click the yellow happy face to start a new game.</font></h3></li>
 </ul>
+<br><HR>
+    <h1 align ="center"><font color ="green"><b>UNDERSTANDING RULES WITH SIMPLE PICTURES:</b></font></h1><pre>
+<img src="Minesweeper_9x9_10_example_1.png" alt="minesweeper difficulties level" width="200" height="200">   <img src="Minesweeper_9x9_10_example_2.png" alt="minesweeper difficulties level" width="200" height="200">   <img src="Minesweeper_9x9_10_example_4.png" alt="minesweeper difficulties level" width="200" height="200">   <img src="Minesweeper_9x9_10_example_7.png" alt="minesweeper difficulties level" width="200" height="200">   <img src="Minesweeper_9x9_10_example_9.png" alt="minesweeper difficulties level" width="200" height="200">  <img src="Minesweeper_9x9_10_example_11.png" alt="minesweeper difficulties level" width="200" height="200">
 <br>
+<img src="Minesweeper_9x9_10_example_13.png" alt="minesweeper difficulties level" width="200" height="200">   <img src="Minesweeper_9x9_10_example_15.png" alt="minesweeper difficulties level" width="200" height="200">   <img src="Minesweeper_9x9_10_example_16.png" alt="minesweeper difficulties level" width="200" height="200">
+</pre>
+<br><br>
 <hr>
-<h1 align ="center"><font color ="white"><b>TIPS TO PLAY:</b></font></h1>
+<h1 align ="center"><font color ="green"><b>TIPS TO PLAY:</b></font></h1>
 <h2 align ="center"><font color ="white">Here are some suggestions for you that will help you do better and avoid mistakes:</font></h2></p>
 <ul>
     <li><h3 align ="center"><font color ="white"><b>Be careful with your mouse.</b> There are no mulligans in Minesweeper. If you click on a square you didn’t intend to, you are stuck with the consequences, so watch carefully where your cursor is before clicking.</font></h3></li>
@@ -43,18 +50,27 @@
     <li><h3 align ="center"><font color ="white"><b>Start in the middle.</b> Expert Minesweeper players advocate placing your first click somewhere in the middle of the board and working your way out to the edges.</font></h3></li>
     <li><h3 align ="center"><font color ="white"><b>Recognize patterns.</b> After a few games, you will recognize patterns in the way mines are commonly laid out. Each game is randomized, but there are similarities. Learning these patterns can help make your guesses, where needed, a little less random.</font></h3></li>
     <li><h3 align ="center"><font color ="white"><b>Recognize patterns.</b> After a few games, you will recognize patterns in the way mines are commonly laid out. Each game is randomized, but there are similarities. Learning these patterns can help make your guesses, where needed, a little less random.</font></h3></li>
-</ul>
+</ul><hr>
+<br><h1 align ="center"><font color ="green"><b>VARIANTS:</b></font></h1>
+<h3 align ="center"><font color ="white">Variants of Minesweeper have been made that expand on the basic concepts and add new game design elements. Minesweeper X is a clone of the Microsoft version with improved randomization and more statistics, and is popular with players of the game intending to reach a fast time. Arbiter and Viennasweeper are also clones, and are used similarly to Minesweeper X. Crossmines is a more complex version of the game's base idea, adding linked mines and irregular blocks. BeTrapped transposes the game into a mystery game setting. There are several direct clones of Microsoft Minesweeper available online.</font></h3><
+<pre> 
+ <img src="Firefox_Hexagon_Minesweeper_-_fr.png" alt="minesweeper demo" WIDTH = "200" HEIGHT = "200">   <img src="Firefox_Multiple_mines.png" alt="minesweeper demo" WIDTH = "200" HEIGHT = "200">  <img src="Cube_Minesweeper_3D.png" alt="minesweeper demo" WIDTH = "200" HEIGHT = "200">   <img src="Minesweeper_games2relaxnet.png" alt="minesweeper demo" WIDTH = "200" HEIGHT = "200">    <img src="Tentaizu_puzzle.png" alt="minesweeper demo" WIDTH = "200" HEIGHT = "200">   <img src="Xbomb_triangles.png" alt="minesweeper demo" WIDTH = "200" HEIGHT = "200">
 <br>
-<hr>
-<h1 align ="center"><font color ="white"><b>WINNING THE GAME:</b></font></h1>
+<h3><font color ="white">           Hexagonal        Multiple mines in cells           3D            Online, non-rectangular     A tentaizu puzzle           Triangular </font></h3>
+</pre><hr>
+<h1 align ="center"><font color ="green"><b>WINNING THE GAME:</b></font></h1>
 <h2 align="center"><font color ="white">As you go along, you will uncover more and more of the board. At some point, unless you get lucky, there will be places where you have to guess where the mine is. This can be one of the most frustrating things in the game, when suddenly a game of strategy, observation, and pattern recognition is decided on a lucky — or unlucky — guess.</font></h2>
 <h2 align="center"><font color ="white">The game is won when you left-click on the last non-mine square. You do not have to mark the mines along the way. In fact, some advanced players deliberately do not mark them to make the game more challenging. Have fun playing Minesweeper!</font>
     <br>
+    
     <hr>
-<h1 align ="center"><font color ="white"><b><i>CONGRATULATIONS!</i></b></font></h1>
+<h1 align ="center"><font color ="purple"><b><i>CONGRATULATIONS!</i></b></font></h1>
 <h2 align ="center"><font color ="white"><b>YOU ARE ALMOST THERE</b></font></h2>
-<h3 align ="center"><font color ="white">How about playing a game to test your skills. <a href= "https://minesweeper.online"> Click Here</a>. to start playing now.</font></h3>
+<h3 align ="center"><font color ="white">How about playing a game to test your skills. <a href= "https://minesweeper.online" target="_blank"> Click Here</a>. to start playing now.</font></h3>
 <h3 align ="center"><font color ="white">We would suggest to play at begineer level because you are new to this!</font></h3>
+<hr><hr>
 
+<h1 align ="right"><font color ="white">MOHIT THAKKER <BR><br>ANSHUL JINDAL</font></h1>
+    <hr><hr>
 </body>
 </html>
